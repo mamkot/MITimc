@@ -1,2 +1,2 @@
 # IMC
-projeto feito na Etec de Itaquaquecetuba
+Projeto realizado na Etec de Itaquaquecetuba
