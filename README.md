@@ -14,8 +14,6 @@ Projeto realizado como parte do 3° ano no curso de Desenvolvimento de Sistemas 
 
 ## Projeto em funcionamento
 
-![Aplicativo IMC](https://github.com/mamkot/IMC/assets/102431539/ac834553-460f-4ea5-9aa8-bbdcdbc3d976)
-
 ### Ferramentas
 
 - [MIT App Inventor (web)](https://nodejs.org/pt-br/download);
