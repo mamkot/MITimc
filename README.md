@@ -5,7 +5,7 @@
 </p>
 
 </h4>
-Projeto realizado como parte do 3° ano no curso de Desenvolvimento de Sistemas na disciplina de Programação de Aplicativos Web III (PW III) ministrado na Escola Técnica Estadual de Itaquaquecetuba. 
+Projeto realizado como parte do 3° ano no curso de Desenvolvimento de Sistemas na disciplina de Programação de Aplicativos Mobile III (PAM II) ministrado na Escola Técnica Estadual de Itaquaquecetuba. 
 </h4>
 
 ## Descrição
