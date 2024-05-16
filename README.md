@@ -9,15 +9,15 @@ Projeto realizado como parte do 3° ano no curso de Desenvolvimento de Sistemas 
 </h4>
 
 ## Descrição
-<p align=>Este projeto consiste em um app mobile que fornece informações sobre o índice de massa corporal (IMC) de uma pessoa. Assim, o aplicativo possui um formulário onde o usuário pode inserir informações relacionadas à massa e altura devidamente formatadas nas unidades de medida, como quilo (kg) e metro (m). 
-
+<p align=>Este projeto consiste em um app mobile que fornece informações sobre o índice de massa corporal (IMC) de uma pessoa. Assim, o aplicativo possui um formulário onde o usuário pode inserir informações relacionadas à massa e altura devidamente formatadas nas unidades de medida, como quilo (kg) e metro (m). Em seguida, como resultado, é mostrado o IMC, a classificação na qual ela se enquadra (magreza, normal, acima do peso ou obesidade) e o grau (obesidade grau I, II e III), caso a pessoa esteja obesa.
 </p>
 
-## Projeto
+## Projeto em funcionamento
 
+![Aplicativo IMC](https://github.com/mamkot/IMC/assets/102431539/ac834553-460f-4ea5-9aa8-bbdcdbc3d976)
 
 ### Ferramentas
 
 - [MIT App Inventor (web)](https://nodejs.org/pt-br/download);
-- [MIT App Inventor (Android)](https://www.apachefriends.org/pt_br/index.html](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&pcampaignid=web_share);
-- [MIT App Inventor (IOS)]
+- [MIT App Inventor (Android)](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&pcampaignid=web_share);
+- [MIT App Inventor (iOS)](https://apps.apple.com/us/app/mit-app-inventor/id1422709355).
