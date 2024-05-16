@@ -9,10 +9,20 @@ Projeto realizado como parte do 3° ano no curso de Desenvolvimento de Sistemas 
 </h4>
 
 ## Descrição
-<p align=>Este projeto consiste em um app mobile que fornece informações sobre o índice de massa corporal (IMC) de uma pessoa. Assim, o aplicativo possui um formulário onde o usuário pode inserir informações relacionadas à massa e altura devidamente formatadas nas unidades de medida, como quilo (kg) e metro (m). Em seguida, como resultado, é mostrado o IMC, a classificação na qual ela se enquadra (magreza, normal, acima do peso ou obesidade) e o grau (obesidade grau I, II e III), caso a pessoa esteja obesa.
+<p align=>Este projeto consiste em um aplicativo mobile que fornece informações sobre o índice de massa corporal (IMC) de uma pessoa. Assim, o app possui um formulário no qual o usuário pode inserir informações relacionadas à massa e à altura devidamente formatadas nas unidades de medida, como quilo (kg) e metro (m). Em seguida, como resultado ao clicar no botão "calcular", é mostrado o IMC, a classificação na qual ela se enquadra (magreza, normal, sobrepeso ou obesidade) e o grau (I, II e III), caso a pessoa esteja obesa.
+
+Para ser feito o cálculo, a massa (em kg) é dividida pela altura ao quadrado (em m), de acordo com a seguinte fórmula: IMC = peso / (altura x altura). O resultado, por fim, é dado em kg/m².
 </p>
 
+## Aplicativo
+
+![design](https://github.com/mamkot/AppIMC/assets/102431539/ded1e129-103e-4549-ae12-d5a6a72b8acd)
+
+![codificacao](https://github.com/mamkot/AppIMC/assets/102431539/00484079-500d-4bc1-83c6-adcef03fd148)
+
 ## Projeto em funcionamento
+
+
 
 ### Ferramentas
 
