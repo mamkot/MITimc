@@ -22,6 +22,8 @@ Para ser feito o cálculo, a massa (em kg) é dividida pela altura ao quadrado (
 
 ## Projeto em funcionamento
 
+https://github.com/mamkot/MITimc/assets/102431539/30b80636-4c8b-4d38-8b9b-4c28eda2623e
+
 ### Ferramentas
 
 - [MIT App Inventor (web)](https://nodejs.org/pt-br/download);
