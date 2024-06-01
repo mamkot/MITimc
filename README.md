@@ -24,8 +24,21 @@ Para ser feito o cálculo, a massa (em kg) é dividida pela altura ao quadrado (
 
 https://github.com/mamkot/MITimc/assets/102431539/30b80636-4c8b-4d38-8b9b-4c28eda2623e
 
+## Como instalar o aplicativo no celular (Android)
+
+1. **Habilitar a instalação de fontes desconhecidas**:
+    - Acesse `Configurações > Segurança` ou `Configurações > Segurança e privacidade` em seu dispositivo;
+    - Ative a opção `Fontes desconhecidas` ou `Instalar apps desconhecidos`.
+
+2. **Instalar o arquivo APK**:
+    - Acesse o repositório [MITimc](https://github.com/mamkot/MITimc.git) e faça o download do arquivo `ProjetoIMC.apk` ou `ProjetoIMC.aab`;
+    - Use um gerenciador de arquivos para localizar o projeto `apk`/`aab` e toque nele para iniciar a instalação;
+    - Siga as instruções na tela para concluir a instalação;
+    - Caso necessário, aceite as permissões solicitadas pelo aplicativo durante a instalação.
+
+<h6>*  Atualmente, este projeto não oferece suporte para a instalação em dispositivos iOS.<h6>
+
 ### Ferramentas
 
 - [MIT App Inventor (web)](https://nodejs.org/pt-br/download);
-- [MIT App Inventor (Android)](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&pcampaignid=web_share);
-- [MIT App Inventor (iOS)](https://apps.apple.com/us/app/mit-app-inventor/id1422709355).
+- [MIT App Inventor (Android)](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&pcampaignid=web_share).
